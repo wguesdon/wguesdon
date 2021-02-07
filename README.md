@@ -6,3 +6,6 @@ I am a Senior Scientist with experience in immunology, molecular biology and dat
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/wguesdon)
 
 [![](https://img.shields.io/badge/Email-wguesdon%40gmail.com-blue)](mailto:wguesdon@gmail.com)
+
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=wguesdon&show_icons=true">
