@@ -4,3 +4,5 @@ I am a Senior Scientist with experience in immunology, molecular biology and dat
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-guesdon/)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/wguesdon)
+
+[![](https://img.shields.io/badge/Email-semanurkps%40gmail.com-blue)](mailto:wguesdon@gmail.com)
