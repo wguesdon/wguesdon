@@ -7,5 +7,11 @@ I am a Senior Scientist with experience in immunology, molecular biology and dat
 
 [![](https://img.shields.io/badge/Email-wguesdon%40gmail.com-blue)](mailto:wguesdon@gmail.com)
 
+<h2> Programming Languages I know </h2>
+<div>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
+
+<div>
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wguesdon&show_icons=true">
