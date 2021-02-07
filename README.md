@@ -12,7 +12,5 @@ I am a Senior Scientist with experience in immunology, molecular biology and dat
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 
-<div>
-<div>
-<div>
+<h2>  </h2>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=wguesdon&show_icons=true">
