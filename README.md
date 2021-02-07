@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There, I'm William!👋</h1>
+<h1 align="center"> Welcome to my GitHub profile ! 👋</h1>
 
 I am a Senior Scientist with experience in immunology, molecular biology and data analysis with R and Python. As a researcher, I have developed strong skills in statistical analysis and communication. My research included analysing complex genomic datasets of immune cell receptors and led to 13 articles in peer-reviewed journals. I have a passion for the use of machine learning in the drug discovery process.
 
