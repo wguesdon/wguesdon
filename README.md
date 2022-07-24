@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub profile ! 👋</h1>
 
-I am a Senior Scientist with experience in immunology, molecular biology and data analysis with R and Python. As a researcher, I have developed strong skills in statistical analysis and communication. My research included analysing complex genomic datasets of immune cell receptors and led to 13 articles in peer-reviewed journals. I have a passion for the use of machine learning in the drug discovery process.
+I am passionate about solving business problems using Data Science & Machine Learning. I systematically & creatively use my skillset to add tangible value to the team, the business, and the end-user. I am constantly learning, and always looking to improve.
 
 You can have a look at my projects [here](https://github.com/wguesdon/Data_Science_portfolio).
 
